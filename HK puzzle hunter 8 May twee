@@ -1,0 +1,1603 @@
+:: StoryTitle
+HK game
+
+
+:: StoryData
+{
+  "ifid": "8A54AD97-77EA-4A65-8875-6CAE01C2E54B",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Cover",
+  "tag-colors": {
+    "finalpage": "yellow",
+    "Dim-Sum": "none"
+  },
+  "zoom": 0.6
+}
+
+
+:: \ I want to know more about McDull {"position":"250,2450","size":"100,100"}
+
+[(goto-url: 'https://www.instagram.com/mcdullgallery/reels/')]
+
+
+:: \ Success [Final] {"position":"550,3275","size":"100,100"}
+<audio autoplay loop> <source src= "https://rorororo88172.weebly.com/uploads/1/4/9/6/149620524/princess_peach_[8_bit_tribute_to_young_miko]_-_8_bit_universe.mp3" type='audio/mpeg; codecs="mp3"'> </audio>
+
+(bg:blue)[You have successfully collected four puzzle pieces.]
+
+
+(bg:blue)[Congratulations! You completed the challenge! Four pieces were successfully assembled! Completed the challenge!]
+
+[<img
+src="https://i.pinimg.com/originals/d7/9c/12/d79c1231c0f8be9711703b20fd587ffa.gif" style="Max-width:100%; Max-height:100%">]
+
+
+(bg:blue)
+[Want to try a second route?]
+
+(button:) [[Route 2->Page 2]]
+
+
+
+
+:: \ T7 tour [Central2] {"position":"1075,2575","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.4))[Hello, everyone. Welcome to Central Market! Welcome to Central Market, a market that was once in a state of abandonment. However, it has been revitalised under the government's building revitalization program. To give the building a more human touch, some elements of the old Hong Kong bazaar have been preserved. Is there anything everyone is interested in?
+]
+(bg:(hsl:0,0,1,0.4))[ [[egg lamp]]
+]
+(bg:(hsl:0,0,1,0.4))[ [[steamer basket]]
+]
+(bg:(hsl:0,0,1,0.4))[ [[terrazzo]]
+]
+(bg:(hsl:0,0,1,0.4))[ [[ZhaoJiHao]]
+]
+
+
+
+:: \ explore 7 [Central2] {"position":"950,2425","size":"100,100"}
+The tour guide sees you and she is calling a free tour.
+
+<img src=https://i.pinimg.com/564x/49/b5/df/49b5dfa7346e93f40e133a88703bd686.jpg>
+You decide:
+
+(bg:(hsl:0,0,1,0.4))[[[I still want to start the task->task 7]] 
+]
+(bg:(hsl:0,0,1,0.4))[[[I want to know more about the architecture.-> T7 tour]] 
+]
+
+
+:: \ stop 6 [Stop Square] {"position":"900,1375","size":"100,100"}
+(bg:(hsl:0,0,0,0.25))[Stop 2: Golden Bauhinia Square
+Adress: (link: "1 Expo Dr, Wan Chai, Hong Kong, China")[(goto-url: 'https://www.tripadvisor.co.uk/Attraction_Review-g294217-d1916366-Reviews-Golden_Bauhinia_Square-Hong_Kong.html')]]
+
+(bg:(hsl:210,0.8039,0.5,0.4))[Golden Bauhinia Square is located next to the Hong Kong Convention and Exhibition Center, which was built to commemorate Hong Kong's return to the motherland. Golden Bauhinia Square is located in Wan Chai, Hong Kong, Hong Kong Convention and Exhibition Center inside the artificial island, surrounded on three sides by the harbour, in the centre of the Victoria Harbour, and on the opposite shore of Tsim Sha Tsui want to look out for the world's attention, known at home and abroad.
+]<img src = 'https://i.pinimg.com/564x/66/a5/40/66a5401731cbd7a5d0c8c14354bdbc8b.jpg'>
+
+(bg:(hsl:210,0.8039,0.5,0.4))[Neon: Hello. I'm Neon, an interactive robot designed by the University of Hong Kong's computer science program! I am Neon, an interactive robot developed by the Computer Science Department of the University of Hong Kong, and the name tag you are wearing has a chip inside. In this station, I will introduce you to the parts you are interested in!
+]
+(text-colour:white)[(button:)[[sculpture]]
+
+(button:)[[Bauhinia flag->flag]]
+
+(button:)[[A roving vehicles->Mister Softee]] 
+
+Or: 
+[[I want to start the task now->Start task 6]]]
+
+
+:: A [Dim] {"position":"525,950","size":"100,100"}
+(text-colour:white)+(bg:(hsl:30,0.8039,0.5,0.5))[Granny: Yum Cha consists of tea and dim sum in the morning. Its origin comes from the people of Guangdong Province in China who immigrated to Hong Kong.]
+
+(text-colour:white)+(bg:(hsl:30,0.8039,0.5,0.5))[Granny: Also, because Hong Kong has been under British control for many years, it has long been the fusion of Cantonese Dim sum culture with British tea culture. ]
+
+You: okay! (click: "okay!") [
+(text-colour:white)+(bg:(hsl:30,0.8039,0.5,0.5))[Granny: These cultural contexts eventually led to the formation of Hong Kong's own Hong Kong-style morning tea culture. Hong Kong Dimsum is not only inherited from the same lineage of Cantonese morning tea but also the product of the fusion of the East and the West.
+    You: Wow, I see! The Yum Cha culture has so many exciting historical backgrounds!] ]
+
+(bg:white)[[I have more questions!|chat]]
+(bg:white) [[I think I am ready to face the task now!|start the game]]
+
+
+
+
+
+
+:: B [Dim] {"position":"400,950","size":"100,100"}
+(bg:(hsl:30,0.8039,0.5,0.95))[Granny: The traditional rule I can think for Yum Cha is its order of having drinks and Dim sum, but don't worry. I will tell you step by step: The order is, um...[tea, dim sum, soup, hot dish and dessert]. Tea serves to cleanse the mouth. The tea can make the taste buds more and more sensitive and prepare them for the following food. I prefer to drink [Pu'er] tea. What I am holding in my hand is also Pu'er.
+]
+
+(text-colour:(hsl:0,0,1,0.95))+(bg:(hsl:30,0.8039,0.5,0.95))[Granny: There are four must-order dishes! [Shrimp dumplings, shumai/steamed dumplings, barbecued pork buns, and egg tarts] are the "Four Kings", the most famous ones in the dim sum world.
+]
+<img src=https://i.pinimg.com/564x/a7/68/1e/a7681e5138459646d21822eb1b06d82e.jpg>
+
+you: how about (text-colour:orange)+(bg:white)[soups]? (click: "soups?")[
+(bg:(hsl:30,0.8039,0.5,0.95))[Granny: There are a variety of soups, including pigeon soup, excellent green bean soup, red bean soup and corn soup. This is followed by hot dishes: pan-fried, deep-fried, stir-fried or steamed. For example, fried noodles, fried rice, and stir-fried vegetable hearts. The fried veggie spring rolls on my table are one of the hot dishes.
+]
+
+(text-colour:(hsl:0,0,1,0.95))+(bg:(hsl:30,0.8039,0.5,0.95))[Granny: Dessert is the last one. I'm getting old, and I don't really like sweets. But I remember when I was young, my favourite food was Liu Sha Bao, a milky bun with a flowing creamy filling. It is a flowing creamy filling wrapped in a soft and tender bun, which makes me happy imagining it. 
+]
+
+(bg:(hsl:34,1,0.951,0.6))[[[wow! I will try my best to memorize it! ->chat]]
+
+[[I think I am ready to have the adventure!->start the game]]]]
+
+
+:: C [Dim] {"position":"650,950","size":"100,100"}
+(bg:(hsl:30,0.8039,0.5,0.75))[Granny: For me, Hong Kong's Yum Cha culture is a childhood memory for every generation. Whether it's in a street-side café or an upscale hotel, morning tea carries the unique memories and emotions of Hong Kong.
+]
+
+(bg:(hsl:30,0.8039,0.5,0.75))[Granny: Tourists like you also come back to experience the Yum Cha culture, right? So, morning tea adds vitality to Hong Kong's economy, and provides a window for tourists to understand Hong Kong's food culture.
+]
+
+(bg:white)[[Haha!you're right, but I have more questions! ->chat]]
+
+(bg:white)[[I think I am ready to have the task now!->start the game]]
+
+
+:: CompleteT8 [HKU1] {"position":"1400,3425","size":"100,100"}
+Congratulations on completing gathering all the pieces after completing four levels.
+
+$name's Route 2 Challenge Tour was successful!
+
+Now, you can see the puzzle now!  
+
+[[ $name's five star adventure->final 2]] 
+
+
+
+
+:: Correct 1 [Star] {"position":"250,2250","size":"100,100"}
+
+(alert: "Cogradulation! Correct Choice!")
+(text-colour:white)+(bg:(hsl:210,0.8039,0.5,0.5))[You find the correct character handprint!
+
+(bg:(hsl:210,0.8039,0.5,0.4))[Bun Bun is looking for McDull. McDull is the only animated character honoured with a statue on the Hong Kong Avenue of Stars.
+]
+<img src=''>
+(bg:(hsl:210,0.8039,0.5,0.4))[He is a famous cartoon piggy in Hong Kong, and everyone loves him! He always wears a cute red undershirt on his body and a hat on his head, which looks especially funny and adorable. As a representative of healing animation, it has become one of the Chinese animation classics.]
+]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TbRUkTeV_5E" frameborder="0" allowfullscreen></iframe>
+
+
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[ I want to know more about McDull]]
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[I want to continue to find the second person and help her find the celebrity handprint->Stop 3 task 2]] 
+
+
+
+:: Correct 2 [Star] {"position":"250,2575","size":"100,100"}
+(alert: "You chose the right answer again!")
+
+(text-colour:blue)+(bg:white)[Yes! Wang is looking for Wong Kar-wai. ]
+
+(bg:(hsl:210,0.8039,0.5,0.4))[He is a renowned Hong Kong film director and screenwriter known for his unique visual style and deeply emotional portrayals. He was born in Shanghai on July 17, 1958, and later moved to Hong Kong.
+]
+(bg:(hsl:210,0.8039,0.5,0.4))[Director Wang crossed over to TV drama in 2023, producing Blossoms Shanghai. 
+]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gtS8DzYSXq8" frameborder="0" allowfullscreen></iframe>
+
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[I want to know more about 'Blossomes Shanghai']]
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[ I wish to find the third people quickly.->Stop 3 task 3]]
+
+
+:: Correct 3 [Star] {"position":"250,2750","size":"100,100"}
+(alert: "You chose the right answer again!")
+
+(text-colour:blue)+(bg:white)[The celebrity  Michelle was trying to find was Anita Mui.
+]
+(bg:(hsl:210,0.8039,0.5,0.55))[Anita Mui was born into a low-income family in Mongkok, Hong Kong. She began singing on stage with her sister at four to supplement her family's income. In those days, singing was not considered a legitimate business, and Mui was ostracized and ridiculed by her classmates in school. But looking back on her short life of 40 years, her courage and perseverance made her a great success in both her singing and acting career.
+]
+
+<img src= 'https://s3cdn.wainao.me/2021-04/hkfilm-%E6%A2%85%E8%89%B3%E8%8A%B3.jpg' Width="600" Height= "650"> 
+
+(bg:(hsl:210,0.8039,0.5,0.55))[Considering the context of the times, Anita Mui's road to fame is the same as the lifeblood of the era in Hong Kong. In the 1970s, when she was growing up, the external environment caused the colonial government to change its policies. Hong Kong's civic class developed rapidly, local culture became prominent, and Cantonese songs became popular. She worked her way up from the grassroots to the grassroots and was a righteous and resilient person. From the grassroots to the elite, she matched the inner culture of Hong Kong's urban development, and this "spirit of the Lion's Rock" has made her a popularly recognized "Daughter of Hong Kong".
+]
+
+(text-colour:blue)+(bg:(hsl:0,0,1,0.95))[You've completed the third level perfectly. So far, you've won 3/5 pieces of the puzzle and victory is in Stop!
+]
+
+
+(text-colour:orange)+(bg:white)[I want to know more about Anita Mui.] (click:"I want to know more about Anita Mui. " )[(goto-url: 'https://artsandculture.google.com/story/anita-mui-ever-changing-singing-diva-hong-kong-heritage-museum/2wWBO4AGwW53MA?hl=en')]
+
+
+(text-colour:orange)+(bg:white)[[[Heading to Hong Kong Museum of Art->Hong Kong Museum of Art]] ]
+
+
+:: Cover [Cover] {"position":"550,250","size":"100,100"}
+<audio autoplay loop> <source src= "https://rorororo88172.weebly.com/uploads/1/4/9/6/149620524/a_lonely_cherry_tree.mp3" type='audio/mpeg; codecs="mp3"'> </audio>
+
+<img
+src=https://i.pinimg.com/originals/d0/26/8d/d0268dc4c91efeeae3221443f7f07196.gif Width="800" Height= "400">
+
+(text-colour:#f8f0fc)[(button:)[[Mannual->How to play]] 
+
+
+(button:)[[Start Game->start page]]]
+
+
+
+
+
+:: D [Mahjong] {"position":"350,1600","size":"100,100"}
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: Mahjong is familiar to all Chinese people! This card game was developed in China during the Ming and Qing dynasties and became popular in the late Qing. 
+]
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: As early as the 1950s and 1960s, Mahjong was popular in Hong Kong, and has remained so for more than half a century. 
+]
+<img
+src=https://images.sigma.world/How-to-Play-Mahjong.jpg Width="800" Height= "600" >
+
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: Nowadays, the craft of hand-carved mahjong has become one of Hong Kong's intangible cultural heritages.
+]
+(bg:(hsl:0,0,1,0.8))[[[I have more questions->talk]]]
+
+(bg:(hsl:0,0,1,0.8))[[[I'm ready to start the task!->start task 2]]]
+
+
+
+
+
+
+
+
+
+:: Did I find the right art work? [HKMOA] {"position":"550,3150","size":"100,100"}
+Your answer is $artcode
+
+(if: $artcode is "CF20398") [Wow! You find the right artwork number! 
+[[Your code is right! You can know the place of the puzzle now!-> Success]] ]
+
+(if: $artcode is not "CF20398") [Sorry, You find the wrong artwork number.
+You:[[ I want one more opportunity!->Thank U page]]]
+
+
+:: E [Mahjong] {"position":"200,1600","size":"100,100"}
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: The production of traditional mahjong tiles has several processes, including cutting the raw materials (cutting tiles), grinding and polishing (grinding tiles), and carving and colouring.
+]
+
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: The carving and colouring process is the most significant difference between hand-carved and machine-made mahjong. After the chainsaw cuts the glue and glues the base, the individual corners of the rectangle need to be sanded and polished.
+]<img
+src=https://www.iraqinews.com/wp-content/uploads/2022/08/62e9d6a35ac191659492003.jpg
+ >
+
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: Then, after the heat of the lightbox, the engraved surface will be softer, and it is good to start carving the mahjong-related patterns and text.
+]
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: Colouring is the last step. After waiting for the paint to dry, you still need to scrape the excess paint off the surface with a small spatula. Just like the mahjong in my hand, the traditional mahjong colours are three colours (blue, red, and green).
+]
+
+(bg:(hsl:0,0,1,0.8))[[[I have more questions->talk]]]
+
+(bg:(hsl:0,0,1,0.8))[[[I'm ready to start the task!->start task 2]]]
+
+
+:: F [Mahjong] {"position":"600,1600","size":"100,100"}
+
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: This small store has existed on this street for 30 years. I am also the third generation of this traditional craft. Since I was a child, this has become my business.
+]
+
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: One of the hardest hits for me was that a few years ago, I received a demolition order from the Buildings Department, saying that this part of the building needed demolishing.
+]
+YOU: Ah! Why does your store still exist? 
+
+(bg:(hsl:90,0.8039,0.5,0.7))[Uncle Jing: I couldn't let go of this store full of memories; after all, the number of people doing this craft is decreasing. So, I used various social media platforms to publicize hand-carved mahjong. Ultimately, the government decided to protect my store and not demolish it! Thank you very much for your willingness to help me promote it online.
+]
+(bg:(hsl:0,0,1,0.8))[[[I have more questions->talk]]]
+
+(bg:(hsl:0,0,1,0.8))[[[I'm ready to start the task!->start task 2]]]
+
+
+:: G [Opera1] {"position":"875,925","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.15))[Li: Cantonese Opera was inscribed on October 2, 2009 on the World Intangible Cultural Heritage List. This artistic expression originated in Foshan and was formed in Guangdong. It has continued to spread among the Cantonese-speaking community, and there are Cantonese opera theaters in Macau, China, and Hong Kong, China.
+]
+You:What are some of the preservation measures for Cantonese Opera in modern times? (Click:'What are some of the preservation measures for Cantonese Opera in modern times?')[
+
+(bg:(hsl:0,0,0.5333,0.15))[Li: In 2003, Guangdong, Hong Kong and Macao all designated the last Sunday of November as Cantonese Opera Day in order to preserve Cantonese Opera. At the same time, Cantonese opera has a high degree of openness. Selections from Cantonese opera attractions have been used in many movies in Hong Kong. And, there are also Cantonese opera scholars like me who have altered classic scripts for the purpose of welcoming a younger audience!]
+]
+
+[[I have more questions!->forward]]
+
+[[I'm ready to start the task->task 5 game]] 
+
+
+
+:: H [Opera2] {"position":"1000,925","size":"100,100"}
+
+(bg:(hsl:0,0,0.5333,0.15))[Li: Cantonese Opera, like other Beijing Operas, has four traditional roles: Sang/Sheng), Daan/Dan), Zing/Jing), and Cau/Chou.
+]
+
+(bg:(hsl:49,1,0.8745,0.25))[Li: Sheng is one of the most important roles on the opera stage, playing a variety of male characters of different ages, personalities and status. Generally speaking, the roles of the Sheng line are all plain-faced, and the hope of the line is that the Sheng's costume will be relatively clean and handsome.]
+
+<img
+src="https://i.pinimg.com/564x/bf/e0/73/bfe073743ce1cacc6c860e4519cf1de0.jpg
+" style="Max-width:100%; Max-height:100%">
+
+(bg:(hsl:49,1,0.8745,0.25))[Li: Dan is another one of the most important roles on the opera stage. In opera performances, Dan plays different types of female roles, including a virtuous wife and mother, a talented woman, a bold warrior, etc., with rich performances and emotional expressions.
+]
+<img
+src="https://i.pinimg.com/474x/33/3b/45/333b4522a4801afeaaa76000475b5555.jpg" style="Max-width:100%; Max-height:100%">
+
+
+(bg:(hsl:49,1,0.8745,0.25))[Li: Zing/Jing mainly plays male characters who have outstanding characteristics in terms of character, quality or appearance. Character, quality, or appearance are expressed through specific facial features. That is to say, they are adjusted according to the character's personality. Red face mostly shows loyalty and justice. Black faces mostly show integrity, bravery or recklessness. Blue faces mostly show bravery and tenacity.
+]
+<img
+src="https://i.pinimg.com/474x/d3/13/fe/d313feebde550e69914db338ff1e9d24.jpg" style="Max-width:100%; Max-height:100%">
+
+(bg:(hsl:49,1,0.8745,0.25))[Li: The name "Cau/Chou" is derived from the fact that Jokers often put on a small amount of white powder when applying make-up to disguise themselves as 'ugly'. The word "clown" refers more to the unattractiveness of the character than to the ugliness of the character. The roles they played included both sinister and cunning characters, as well as upright and kind-hearted figures.
+]
+<img
+src="https://i01piccdn.sogoucdn.com/fff055456747d26d" style=Max-width:1000; Max-height:800>
+
+(bg:(hsl:0,0,1,0.25))[[[I'm ready to start the task->task 5 game]] 
+]
+(bg:(hsl:0,0,1,0.25))[[[I have more questions!->forward]]]
+
+
+:: Heading to BIU KEE MAH-JONG [Stop Mahjong1] {"position":"350,1350","size":"100,100"}
+(bg:(hsl:0,0,0,0.75))[Spot 2：BIU KEE MAH-JONG 标记麻雀
+
+Address: G/F., 26F, Jordan Rd, Hong Kong (click:"G/F., 26F, Jordan Rd, Hong Kong" )[(goto-url: 'https://www.google.com/maps/place/Biu+Kee+Mah-Jong/@22.30527,114.1694921,15z/data=!4m2!3m1!1s0x0:0xc523055f425f63b9?sa=X&ved=1t:2428&hl=en&ictx=111')]]
+
+
+(bg:(hsl:0,0,0.5333,0.5))[The small store in front of you is one of the few hand-carved mahjong stores in Hong Kong. The owner is called 'Uncle Jing', the third generation of hand-carved mahjong.
+]
+(bg:(hsl:0,0,0.5333,0.5))[In fact, during the 1950s and 1960s, there were many hand-carved mahjong shops in this area. It was characterized by its high-quality materials and customization. This craft is being forgotten with the advent of industrialized mahjong manufacturing.
+]
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[[talk with Jing->talk]]]
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[I'm in rush, I want to go to next spot->start task 2]]
+
+
+:: Hong Kong Museum of Art [HKMOA Stop] {"position":"250,2900","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.7))[Stop 4: Hong Kong Museum of Art
+Address: (link: "10 Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong")[(goto-url: 'https://hk.art.museum/en/web/ma/exhibitions-and-events.html')]]
+
+(text-colour:white)+(bg:(hsl:210,0.8039,0.5,0.8))[HKMOA, established in 1962, the Hong Kong Museum of Art is the first public art museum in Hong Kong, guarding more than 18,800 sets of art treasures, including Chinese paintings and calligraphy, ancient artefacts, exported art, photographs, modern art, and the creative achievements of Hong Kong artists. Inside are five exhibition halls with various special exhibitions and large floor-to-ceiling windows with panoramic sea views of Victoria Harbour.
+]
+(text-colour:white)+(bg:(hsl:210,0.8039,0.5,0.8))[Your goal in this thread is to get one word from the artwork's title by solving the following riddle. After knowing the word, your final task is to fill the box with the code.
+]
+Please ask Rebecca Ip (the Consul General) at the Art Museum, :
+<img src=https://i.pinimg.com/564x/ca/5c/1a/ca5c1a222893983020830dff03583fe8.jpg>
+
+[[Could you tell me the riddle? ->see the riddle]]
+
+[[Start to explore]]
+
+[[I wish to finish the task now->task 4 game]]
+
+
+
+:: How to play [Cover] {"position":"725,375","size":"100,100"}
+<audio autoplay loop> <source src= "https://rorororo88172.weebly.com/uploads/1/4/9/6/149620524/end_of_beginning_[8_bit_tribute_to_djo]_-_8_bit_universe.mp3" type='audio/mpeg; codecs="mp3"' vol=50%> </audio>
+
+
+Welcome to Hong Kong! You must be very excited to see what will happen next, right? For a better gaming experience, please browse this game manual:
+
+You will act as an explorer and get 1/4 puzzle pieces at each attraction. In short, the way to get puzzles is to complete the puzzle test provided by NPCs.
+
+The map below shows that the game has two lines: Line 1 is red, and Line 2 is yellow. After clicking "Start Game", you will be randomly assigned to one of the two lines.
+
+<img
+src=https://i.pinimg.com/originals/0f/63/cd/0f63cdba433c6236ccf124da2ef6eca2.gif Width="800" Height= "500">
+
+
+''WARM TIPS'': 1. If you fail during the game, it's okay; you can restart your adventure.
+
+2. This game highly encourages interaction with different citizens to get more helpful information. Actively participating in interaction is very useful for completing missions as well!
+
+[[ Okay! I'm ready!->start page]]
+
+[[I am still thinking...->Cover]]
+
+
+:: I [Opera1] {"position":"775,950","size":"100,100"}
+
+(bg:(hsl:34,1,0.951,0.7))[Li: The Sunbeam Theater officially opened in 1972, more than 50 years ago. It has become one of the cultural landmarks of Cantonese opera in Hong Kong and a collective memory of a generation. In a poll conducted by Time Magazine in November 2009, enjoying traditional Cantonese Opera at the Sunbeam Theatre ranked 7th out of 25 "Asian Experiences Not to be Missed by Tourists".
+]<img
+src="https://mmbiz.qpic.cn/sz_mmbiz_png/lK7ph9nJmdPQRBMmHaU4wuibTvI5mWqxjKrRCcpKia8pSC3TskcPgnO8l90RmXVUVqqrAJGqVFJUXCNVeuiafo8RA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" style="Max-width:100%; Max-height:100%">
+
+You:  What about after some current development of this theatre? (click: 'What about after some current development of this theatre?')
+
+[Li: However, the Sunbeam Theatre still experienced many troubles. 2012, the then owner of the theater was unable to pay the deposit because of the high rent. At this critical juncture, I thought twice and on the eve of the closing, I directly reached a cooperation with the landlord so that the theater could reopen.
+
+Li: In the present day, the influence of Cantonese opera has long since lost its prosperity in the 1900s. I hope that more young people will have a greater passion for this traditional art form. I am also making efforts to this end. For example, adding digital theaters, opening theater museums in theaters, and so on. I hope to see $name again in the future!]
+
+[[I'm ready to start the task.->task 5 game]] 
+
+[[I have more questions!->forward]]
+
+
+:: I want to know more about 'Blossomes Shanghai' {"position":"375,2700","size":"100,100"}
+(goto-url:'https://www.imdb.com/name/nm0939182/')
+
+
+:: I'm ready to answer [Dim2] {"position":"400,1075","size":"100,100"}
+The one type of dish missing from the "Four Kings" Dim Sum is:
+
+<img src='https://i.pinimg.com/564x/10/70/2b/10702b2ddc300033e6efb912cabd1c2f.jpg'>
+
+(dropdown: bind _beginning, "shrimp dumplings", "shumai/steamed dumplings", "barbecued pork buns", "egg tarts")
+
+(link-rerun: "Is my answer right?")[
+    (if: _beginning is "shumai/steamed dumplings")[
+        (print: "Your answer is correct! You got 1/4 puzzles!")
+        [[Heading to BIU KEE MAH-JONG]]
+    ]
+    (else:) [
+        (print: "You chose the wrong dish.")
+        (link: "Start the game again.")(go-to: 'Thank U page')
+    ]
+]
+
+    
+
+
+
+:: ICE CREAM CUP [Ice] {"position":"1175,1950","size":"100,100"}
+(bg:(hsl:210,0.8039,0.5,0.4))[Clerk: Welcome back next time!
+]
+
+<img
+src="https://i.pinimg.com/736x/9d/77/02/9d77027cd848ffcdbda06df296f89456.jpg" Width="300" Height= "400">
+
+
+(bg:(hsl:0,0,1,0.4))[[[Go to the next stop. ->stop 7]]](bg:(hsl:210,0.8039,0.5,0.4))[Your Text Here]
+
+
+:: J [HKUJ] {"position":"975,3475","size":"100,100"}
+(align:"=><=")+(box:"X=")[Lake Ad Excellentiam
+]
+
+This school lake is located in Chung Chi College of The Chinese University of Hong Kong, sandwiched between Chung Chi Hall (Chung Chi Dining Hall) and Lingnan Stadium, formerly known as the "Lotus Pond". The name of the lake is "Uncircumcised", which implies the meaning of "not yet complete, we must continue to strive for perfection", echoing the motto of Chung Chi College, "Stop at Perfection". "The meaning connotates with the school motto, which is the spirit of self-improvement with perfection as the eternal ideal.
+
+<img src= https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Lake_Ad_Excellentiam_201602.jpg/1920px-Lake_Ad_Excellentiam_201602.jpg>
+
+
+Meanwhile, on November 12, 2003, the 137th anniversary of Dr. Sun Yat-sen's birth, the University of Hong Kong (HKU) held an unveiling ceremony for a bronze statue of Dr. Sun Yat-sen at the Lotus Pond. The bronze statue commemorates the 80th anniversary of Dr. Sun's visit to the University of Hong Kong. Professor Lung Ping-yee of the Department of Architecture, the Chairman of the Antiquities Advisory Board at that time, was responsible for the project. As the convenor of the project, he formed a working group with several professors and experts from the University. He visited various places to collect information and find a sculptor before finally choosing the work of Professor Szeto Siu-Kwong, who created the sculpture - in the form of the appearance and costume of Dr. Sun's visit to the University of Hong Kong. The sculpture is made of bronze, weighing one ton, 1.2 times the size of Dr. Sun Yat-sen's life-size, and took three years from conception to completion.
+
+<img src= https://scontent-lhr6-1.xx.fbcdn.net/v/t1.6435-9/125182845_2760984004179067_8542575330106600386_n.jpg?stp=dst-jpg_p960x960&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MUnVhTljnbAQ7kNvgH6JAE1&_nc_ht=scontent-lhr6-1.xx&oh=00_AfCO63or1nxzRMWw0S9zpv1SONgASZaazjxmeFvQ5TUigg&oe=66627547>
+
+
+HKU recognizes Dr. Sun Yat-sen as one of its most distinguished alums for his selfless dedication to his country and people. HKU has erected a memorial statue of Dr. Sun to reflect his image and encourage students to strive for excellence and contribute to society. 
+
+<img src= https://scontent-lhr8-2.xx.fbcdn.net/v/t1.6435-9/124982748_2760984027512398_8131742428749745088_n.jpg?stp=dst-jpg_p960x960&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wtNu7JUMzW0Q7kNvgHDWcE3&_nc_ht=scontent-lhr8-2.xx&oh=00_AfAr-RzNXWDwAKZinb40urBj_8Ht8_4fVf1w0WQEqYW0fg&oe=66626310>
+
+
+
+
+:: JUMBLE ORANGE [Ice] {"position":"1575,1950","size":"100,100"}
+Clerk: Welcome back next time!
+
+[<img
+src=https://i.pinimg.com/736x/e6/57/aa/e657aa1a0491cf8adefd7a3dda30ad2b.jpg Width="300" Height= "400">]
+
+[[Go to the next stop. ->stop 7]]
+
+
+:: Mister Softee [Ice] {"position":"1050,1600","size":"100,100"}
+Neon: 
+(showing the graph:) (align:"==><===")[<img
+src=https://i.pinimg.com/564x/00/73/cf/0073cf74b05cde6bae6260146d9c297f.jpg>]
+
+(bg:(hsl:210,0.8039,0.5,0.4))[A fateful trip to London in 1969. Former Dairy Farm employee Ho King Yuen saw the joyful sight of children gathered around Mister Softee and had the idea to bring Mister Softee to Hong Kong. Trucks on the streets of London yell for a cone that makes people smile.
+
+After returning from his overseas trip, Mr Ho teamed up with two friends, Ted Drew and Tang Hok Yuen, to establish Mister Softee in Hong Kong, and the following year, the enterprising trio imported their first truck from the UK and began operations on New Year's Eve.
+]
+Neon: (showing the graph:) 
+(align:"==><===")[
+<img
+src="https://s3.ap-southeast-1.amazonaws.com/localiiz-prod/uploads/_1000x1000_fit_center-center_80_none/Hidden-hong-kong-history-mister-softee-ice-cream-1.jpg?mtime=20210618143407&focal=none&tmtime=20240503181836" width=250 length=150>  <img
+src="https://s3.ap-southeast-1.amazonaws.com/localiiz-prod/uploads/_1000x1000_fit_center-center_80_none/Hidden-hong-kong-history-mister-softee-observation-wheel.jpg?mtime=20210618143427&focal=none&tmtime=20240503181837" width=250 length=150>
+]
+
+(bg:(hsl:210,0.8039,0.5,0.4))[Despite its Chinese name "富豪雪糕", which translates to "rich man's ice cream", Mister Softee has always been an inexpensive summer treat, and its signature soft-serve ice cream has always been a popular one. Its signature soft serve ice cream cost just $0.50 per cone when it first opened. The ice cream truck's emergence coincided with the economically optimistic social climate of the 1970s when people could barely afford small gifts. Coupled with the novelty element, Mister Softee naturally took off, selling more than 1,600 cones per hour!
+
+This ice cream brand has become a childhood memory for generations of people in Hong Kong. But now, there are only 16 ice cream trucks left in Hong Kong. If you see one, you must try it!]
+
+(bg:(hsl:0,0,1,0.4))[[[I have more questions-> stop 6]]
+]
+(bg:(hsl:0,0,1,0.4))[[[I'm ready to start the task!->Start task 6]]]
+
+
+:: NUTTY DRUMSTICK [Ice] {"position":"1425,1950","size":"100,100"}
+Clerk: Welcome back next time!
+
+
+<img
+src=https://i.pinimg.com/736x/9d/77/02/9d77027cd848ffcdbda06df296f89456.jpg Width="300" Height= "400">
+
+[[Go to the next stop. ->stop 7]](bg:(hsl:0,0,1,0.4))[Your Text Here](bg:(hsl:0,0,1,0.4))[Your Text Here](bg:(hsl:210,0.8039,0.5,0.4))[Your Text Here](bg:(hsl:210,0.8039,0.5,0.4))[Your Text Here]
+
+
+:: Page 1 {"position":"400,575","size":"100,100"}
+(set:$name to (prompt:"your name label for the adventure will be:", "Kim"))
+
+ 
+(text-colour:white)+(bg:(hsl:210,0.8039,0.5,0.75))[Today, the route for $name is Route 1!
+
+The theme of this route is Urban Explorer; you will have 4 spots to visit.
+
+They are: Dim Sum Restaurantt, Mahjong Shop, Avenue of Stars and Hong Kong Museum of Art.
+
+Our exploration will begin shortly.]
+
+
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[[haven't ready->How to play]] 
+]
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[ok! let's start]]
+
+
+
+:: Page 2 {"position":"775,550","size":"100,100"}
+(set:$name to (prompt:"your name label for the adventure will be:", "Kim"))
+
+
+(text-colour:white)+(bg:(hsl:210,0.8039,0.5,0.75))[Welcome to Route 2, $name! The theme of Route 2 is HK history explorer.
+
+Our exploration will begin shortly.]
+
+
+(bg:(hsl:0,0,1,0.75))[[[I wasn't ready to take the adventure:( ->How to play]] 
+]
+(bg:(hsl:0,0,1,0.75))[[ok! I can't wait!]]
+
+
+
+
+:: SOFT ICE CREAM [Ice] {"position":"1300,1950","size":"100,100"}
+Clerk: Welcome back next time!
+
+<style> img {
+max-width:60%
+max-height:60%
+} </style>
+
+<img
+src=https://i.pinimg.com/736x/15/1f/76/151f76bf345a672088afa3f2984159f0.jpg Width="300" Height= "400">
+</div>
+
+[[Go to the next stop. ->stop 7]](bg:(hsl:0,0,1,0.4))[Your Text Here]
+
+
+:: Start task 6 [Square] {"position":"975,1875","size":"100,100"}
+(align:"==><===")[<img
+src=https://i.pinimg.com/564x/9a/e3/95/9ae3951a5d0441cc70132d57aed31dc2.jpg>]
+
+(bg:(hsl:0,0,0.5333,0.4))[Task 2: Please fill out the queuing coupon to write when the  Bauhinia sculpture arrives at Golden Bauhinia Square:
+(the format example: 1st October 1949, is 01101949) The whole code has 8 numbers in total:]
+
+(input:  bind $task6)
+
+(bg:(hsl:0,0,1,0.4))[[[Hand the code to Ice cream sales clerk->task 6 result]]
+]
+(bg:(hsl:0,0,1,0.4))[[[I still want to wander around at stop 3.-> stop 6]]
+]
+
+
+:: Start task 8 [HKU1] {"position":"1250,3275","size":"100,100"}
+(bg:(hsl:0,0,0,0.75))[Task 4: Please select one of the following Hong Kong attractions as the setting for the movies 'City of Glass' and 'Lust, Caution': (click the only correct image)
+]
+
+(bg:(hsl:120,0.8039,0.5,0.75))[Lake Ad Excellentiam
+][[ <img
+src=https://media-cdn.tripadvisor.com/media/photo-s/0f/c9/14/61/photo3jpg.jpg> ->Thank U page]]  
+
+(bg:(hsl:210,0.8039,0.5,0.75))[Loke Yew Hall
+][[ <img
+src=https://leptonaplane.files.wordpress.com/2014/06/loke-yew.jpg> ->final 2]]
+
+(bg:(hsl:30,0.8039,0.5,0.75))[HKU Shaw Building
+][[ <img
+src=https://www.estates.hku.hk/newmap/photos/rr.jpg> ->->Thank U page]]  
+
+
+(bg:(hsl:0,0,1,0.75))[[[I wish to see more places before answering the question->University]] ]
+
+
+:: Start to explore [HKMOA1] {"position":"125,3025","size":"100,100"}
+(text-colour:white)+(bg:(hsl:210,0.8039,0.5,0.5))[Which floor do you wish to go to? 
+]
+
+(bg:blue)[[[2/F |floor 2]]]
+
+(bg:blue)[[[3/F |floor4]]]
+
+(bg:blue)[[[4/F |floor 3]]]
+
+(bg:blue)[[[5F |floor 5]]]
+
+(bg:white)[[[I'm ready to finish the task now.->task 4 game]]]
+
+(bg:white)[[[I want to know the riddle->see the riddle]]]
+
+
+:: Stop 3 task 1 [Star] {"position":"75,2250","size":"100,100"}
+(bg:black)[Task 3: Help three people to find the handprints they describe.
+]
+(bg:(hsl:210,0.8039,0.5,0.4))[Bun Bun: Hello, $name! My nickname is Bun Bun. My mom and dad say it's because I've been so cute since I was little, like a little steam bun. You can also call me Bun Bun!
+]
+<img src=https://i.pinimg.com/474x/b5/ba/85/b5ba85253d1dfc4ebd24f7510a8ee18c.jpg>
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.4))[You: Haha! Hello, Bun Bun! What kind of character you wish to find here?](click: "Haha! Hello, Bun Bun! What kind of character you wish to find here?") [ 
+Bun Bun: (bg:(hsl:210,0.8039,0.5,0.4))[This character I'm looking for is our school's big star; he likes Yum Cha, especially barbecued pork buns, fish ball soup rice noodles! Our class favourite is the movie called 'McDull: Me & My Mum' in... 2014!] ]
+
+
+(bg:(hsl:210,0.8039,0.5,0.8))[Bun Bun is looking for:
+]
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Bruce Lee 
+][[ <img
+src=https://i.pinimg.com/736x/ef/a1/44/efa1447a816f0dc2bcb3644e3c125ca3.jpg> ->Thank U page]]  
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Chow Yun-fat]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Leslie Cheung]
+[[ <img
+src=https://i.pinimg.com/736x/ef/a1/44/efa1447a816f0dc2bcb3644e3c125ca3.jpg> ->Thank U page]]  
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Andy Lau]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Mcdull]
+[[ <img
+src=https://i.pinimg.com/564x/69/ff/7e/69ff7ee7c3e6bcf7ee6ae6873c7a7d6a.jpg> ->Correct 1]]  
+
+
+:: Stop 3 task 2 [Star] {"position":"75,2575","size":"100,100"}
+(bg:(hsl:210,0.8039,0.5,0.5))[The second one holds a camera in his hand, taking pictures of Hong Kong's scenery while looking down the avenue for celebrity handprints.
+]
+<img src='https://i.pinimg.com/564x/ce/07/f6/ce07f60b328755b50ea6096b92a3ed1a.jpg'>
+
+(bg:(hsl:210,0.8039,0.5,0.5))[You: Hello! My name is $name, what celebrity are you looking for? Let me help you!
+]
+(bg:(hsl:210,0.8039,0.5,0.5))[?: Oh, hello, my name is Wang. I'm looking for a director. He's often known for his poetic and romantic expressions and is a favourite of the international film industry and audiences.
+]
+(text-colour:orange)+(bg:white)[You: Please give me more information.](click:"Please give me more information.")[
+
+(bg:(hsl:210,0.8039,0.5,0.5))[Wang: His works usually deal with themes such as love, loneliness and passing time. Let's see, um, one of his representative movies is his film 'In the Mood for Love'. Please help me find him!
+]]
+
+(bg:(hsl:210,0.8039,0.5,0.8))[Of the following celebrity handprints, Wang is looking for:
+]
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Tony Leung]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Sammo Hung]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Wong Kar-wai]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Correct 2]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Jackie Chan]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Tsui Hark]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+
+:: Stop 3 task 3 [Star] {"position":"75,2750","size":"100,100"}
+(bg:(hsl:210,0.8039,0.5,0.45))[The third girl looking for a celebrity logo is enjoying herself very much as she listens to the sounds of the people coming and going around her. You decide to approach slowly.
+]<img src= 'https://i.pinimg.com/564x/a4/fe/1c/a4fe1c8d19b8a83d33a664841d29c4cc.jpg'>
+
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.95))[You: Hi. My name is $name! Do you have a celebrity handprint you're looking for?
+] 
+(bg:(hsl:210,0.8039,0.5,0.45))[?: It's a great pleasure to meet you, $name. My name is Michelle, and as you can see, I am blind. Although I had both eyes removed because of eye cancer when I was very young, I crossed my visual barrier. I became the first visually impaired graduate of the Music Department of the University of Hong Kong. Now, I am a professional music teacher.
+]
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.95))[You: You are amazing! There must be a role model you admire, right?](click: 'You are amazing! There must be a role model you admire, right?')[
+
+(bg:(hsl:210,0.8039,0.5,0.45))[Michelle: Right! You are so awesome! 
+My favourite celebrity is a famous Hong Kong singer, actress and stage performer known as the "Hong Kong Diva". She loves music, and her music career has been full of struggles and effort. She has constantly innovated and challenged herself and has brought many classic musical works to the audience. My favourite song is A Flower of the Woman. Please help me find her!]]
+
+
+(bg:(hsl:210,0.8039,0.5,0.8))[Of the following celebrity signature print, Michelle is looking for:
+]
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Maggie Cheung]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Michelle Yeoh]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Cecilia Cheung]
+[[ <img
+src=https://i.pinimg.com/564x/40/5b/ad/405bad5e598979600a3352b69ce3f1ac.jpg> ->Thank U page]] 
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Anita Mui]
+[[ <img
+src=https://i.pinimg.com/736x/ef/a1/44/efa1447a816f0dc2bcb3644e3c125ca3.jpg> ->Correct 3]]  
+
+(text-colour:white)+(bg:(hsl:0,0,0,0.5))[Gong Li]
+[[ <img
+src=https://i.pinimg.com/564x/52/c2/28/52c2283a338fee866cfeb9fa7dd23778.jpg>->Thank U page]] 
+
+
+:: Stop 8 [Stop HKU1] {"position":"1100,3100","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.4))[Stop 4: The University of Hong Kong
+Address: Pok Fu Lam, Hong Kong
+ (click:"Pok Fu Lam, Hong Kong" )[(goto-url: 'https://www.instagram.com/hkuniversity')]]
+
+
+(align:"=><=")+(box:"X=")[<img
+src=https://upload.wikimedia.org/wikipedia/zh/2/27/HKU_Coat_of_Arms.png>]
+
+(text-colour:black)+(bg:(hsl:50,1,0.9294,0.7))[The University of Hong Kong (The University of Hong Kong), abbreviated as "HKU", is a comprehensive, internationalized public research university in Hong Kong, China, known as the "Ivy League" in Asia. Founded in 1911, HKU is one of the oldest and top universities in Hong Kong. Over the past hundred years, HKU has been adhering to the motto of "Virtue and Integrity" and has trained a large number of outstanding talents who have made contributions to society.
+]
+(text-colour:black)+(bg:(hsl:50,1,0.9294,0.7))[A student at the door sees your name tag label and hands you a small introductory booklet.
+]
+<img src=https://i.pinimg.com/564x/9c/e3/84/9ce384ede5de5b1cd794f06f092c8230.jpg>
+
+(bg:(hsl:0,0,1,0.7))[[[Start self-exploration->University]]
+]
+(bg:(hsl:0,0,1,0.7))[[[I want to start the task->Start task 8]]]
+
+
+:: Thank U page [ThankU] {"position":"1025,375","size":"100,100"}
+<audio autoplay loop> <source src= "https://rorororo88172.weebly.com/uploads/1/4/9/6/149620524/the_best_8_bit_music__no_copyright_-_005_-_begin_your_journey_.mp3" type='audio/mpeg; codecs="mp3"'> </audio>
+
+
+Sorry! you did not pass the adventure!
+
+
+Please try to pass next time! 
+
+If you like this game, you can recommend this game to your friends!
+
+
+
+(button:)[[Start the game again!->Cover]]
+
+
+
+
+:: University [HKU1] {"position":"1100,3225","size":"100,100"}
+(text-colour:black)+(bg:(hsl:0,0,1,0.8))[$name's decision is to find out:
+]
+
+(bg:(hsl:0,0,1,0.7))[[[The History of HKU->W]] 
+]
+(bg:(hsl:0,0,1,0.7))[[[Loke Yew Hall->Y]] 
+]
+(bg:(hsl:0,0,1,0.7))[[[HKU Shaw Building->Z]]
+]
+(bg:(hsl:0,0,1,0.7))[[[Lake Ad Excellentiam->J]]
+]
+
+(bg:(hsl:0,0,1,0.7))[[[I want to see the task now.->Start task 8]]]
+
+
+:: W [HKU1] {"position":"750,3375","size":"100,100"}
+(text-colour:grey)+(bg:(hsl:34,1,0.951,0.7))[On March 16, 1910, Sir Frederick Lugard, the then Governor of Hong Kong, laid the foundation stone for the University.
+
+On March 30, 1911, the University was first established in Hong Kong as a self-governing body of scholars under the University Ordinance.
+
+On March 11, 1912, the University was inaugurated. The Faculty of Arts, Engineering and Medicine was the first to be established.]
+
+<img src=https://www.hku.hk/f/page/7546/270p333/history@750.jpg >
+
+(text-colour:grey)+(bg:(hsl:34,1,0.951,0.7))[The Faculty of Medicine was developed from the Hong Kong Chinese College of Medicine, which was founded in 1887. The most famous alumnus of the Faculty was Dr. Sun Yat-sen, the "Father of the Nation".
+
+In December 1916, the University held its first degree conferment ceremony, and only 23 students graduated.
+
+Ten years after its establishment, the University of Hong Kong admitted female students for the first time.]
+
+[[I want to see more places.->University]]
+
+[[I'm ready to start the final task.->Start task 8]]
+
+
+
+:: Y [HKUY] {"position":"1025,3350","size":"100,100"}
+(align:"=><=")+(box:"X=")[Loke Yew Hall]
+
+<img src=https://www.leighorange.com/wp-content/uploads/2017/09/Loke-Yew-Hall-_Project-thumb.jpg>
+
+(text-colour:grey)+(bg:(hsl:34,1,0.951,0.7))[The building where Loke Yew Hall is located is called the Main Building of the University of Hong Kong, which has a history of more than 100 years and is a statutory heritage site in Hong Kong. Although it has experienced the ravages of war, it has remained intact after restoration.
+]
+<img src=http://pic4.zhimg.com/70/6d6f43ca0802f5492567752a196c1f73_b.jpg>
+
+
+(text-colour:grey)+(bg:(hsl:34,1,0.951,0.7))[As one of the main auditoriums of the school, Loke Yew Hall is a place held in high esteem by the students. Loke Yew Hall hosts various dinners, ceremonies, lectures by celebrities, and other school events. In February 1923, Dr. Sun Yat-sen delivered a lecture entitled "The Birth of Revolutionary Ideas" in this hall, which was well received by many students.
+]
+<img src= http://pic4.zhimg.com/70/2c542f76ed06538bde6d83216a5de4a3_b.jpg>
+
+(text-colour:grey)+(bg:(hsl:34,1,0.951,0.7))[The movies 'Lust, Caution' and 'City of Glass' were both set here.
+]<img src= https://img.takungpao.com/2020/0327/20200327042314729.jpg>
+
+[[I want to see more places.->University]]
+
+[[I'm ready to start the final task.->Start task 8]]
+
+
+
+:: Z [HKUZ] {"position":"1200,3450","size":"100,100"}
+(align:"=><=")+(box:"X=")[HKU Shaw Building
+]
+
+<img src = 'https://i.pinimg.com/736x/18/4f/f1/184ff1337a37b8396ed0c57ef3bb1ff4.jpg' Width="700" Height= "900">
+
+(text-colour:grey)+(bg:(hsl:34,1,0.951,0.7))[The "Shaw Building" is a building donated by the founder, Mr. Run Run Shaw. Many buildings on campuses in China bear the name "Yat-Fu". In fact, this is not a coincidence. The "Run Run Shaw Building" was built with donations from Mr. Run Run Shaw, a famous Hong Kong movie producer and founder of a famous movie company.
+]
+<img src=https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F1008%2F854a1226j00rjezxy00asc000lc00g8m.jpg&thumbnail=660x2147483647&quality=80&type=jpg >
+As the "King of Hong Kong Movies", Mr. Run Run Shaw has received many honors in his life. Mr. Run Run Shaw donated 2.5 billion yuan to science, education, culture and health, and donated 6013 projects, of which more than 80% were educational projects. More than 80% of these projects are education projects, benefiting more than 1,000 schools.
+
+
+[[I want to see more places.->University]]
+
+[[I'm ready to start the final task.->Start task 8]]
+
+
+
+
+
+
+
+:: ZhaoJiHao [Central2] {"position":"1325,2800","size":"100,100"}
+"Zhao Ji Hao 「钊记号」is the legendary name of the Central Market. As a trading name in Hong Kong 70 years ago, Zhao Ji Hao witnessed this bustling marketplace's highs and lows. Its existence is a commercial entity and a symbol of people's memories and stories."
+
+"To let the public experience the unique atmosphere of the Central Market in the past, the URA has convened several expert teams to use artificial intelligence technology to restore a photo from 1953, which captures the scene of fishmongers busily selling fish in the Central Market in those days, and recreates this scene clearly and crisply before their eyes."
+
+<img
+src="https://mmbiz.qpic.cn/sz_mmbiz_png/TYXhRibMtQR0iaMnhG3oUEPXC8CHmRk1FPYzWsaTEs3icSTBufL68yI0AZfuH1CsSxplkDAhWrxkD0OPSrULMjF4g/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1">
+
+
+"In addition to the classic design of the fish stalls of the 1950s, the team has added various details, such as placing a large wooden barrel above the water tank, hanging salty grasses as wrapping, and placing "fresh fish" for customers to buy on the countertops of the stalls so that citizens can recall more memories in the experience."
+
+<img
+src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/TYXhRibMtQR0iaMnhG3oUEPXC8CHmRk1FPuj239C1qicLTzibFiaTDe733s1PVTMs2ldy29UbYYpNHJTtNczdfvjpsw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1">
+
+
+[[I want to know more about these cultural symbols-> T7 tour]]
+
+[[I'm ready to start the task!->task 7]]
+
+
+:: chat [Dim] {"position":"500,825","size":"100,100"}
+(text-colour:white)+(bg:(hsl:30,0.8039,0.5,0.5))[Granny: I see your name tag says $name. Is your name $name? Quite an interesting name!]
+
+<img src='https://i.pinimg.com/564x/1d/19/8a/1d198a0fbcf92c3834213498eed5fdda.jpg'>
+
+(bg:(hsl:30,0.8039,0.5,0.75))[Granny: I come here for morning tea at 7 a.m. It's part of my daily routine.]
+]
+(text-colour:orange)+(bg:(hsl:0,0,1,0.75))[You: Granny, I'd like to ask you some questions about Yum Cha:
+]
+(bg:white)[[what is Yum Cha culture in Hongkong?->A]] 
+
+(bg:white)[[Are there any traditional rules in Yum Cha Culture?->B]]
+
+(bg:white)[[What's the meaning of Yum Cha for you?->C]]
+
+
+
+
+:: egg lamp [Central1] {"position":"950,2800","size":"100,100"}
+"Egg lamps can be said to be a uniquely Hong Kong specialty. In the past, due to the dimly lit environment of markets, whenever you went to a grocery store to buy eggs, you would need to hold up the eggs one by one in front of the lamp and look at them. "
+
+<img
+src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/TYXhRibMtQR0yV2YWPrt0Eciag0BQlGhxFKYic9Fy4iaicqYyv5Bod1aXRtPyEkHOK2lheQtQlHeMBiaicn873mNk4mQQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" style="Max-width:100%; Max-height:100%">
+
+
+"When the light passes through the egg shell, it will show the shadow inside, so you can check whether the eggs are fighting or even hatching into chicks. "
+
+<img
+src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/TYXhRibMtQR0yV2YWPrt0Eciag0BQlGhxFyXB5hCHELjQDAy6ZKnoEhUPW43m8JnCpjxAqlXJ2NvKWFO4E1GRsiag/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" style="Max-width:100%; Max-height:100%">
+
+[[I want to know more about these cultural symbols-> T7 tour]]
+
+[[I'm ready to start the task!->task 7]]
+
+
+:: final 2 [Final] {"position":"1450,3250","size":"100,100"}
+<audio autoplay loop> <source src= "https://rorororo88172.weebly.com/uploads/1/4/9/6/149620524/princess_peach_[8_bit_tribute_to_young_miko]_-_8_bit_universe.mp3" type='audio/mpeg; codecs="mp3"'> </audio>
+
+$name's puzzle is: 
+[<img
+src="https://i.pinimg.com/originals/f8/39/3f/f8393f270d4847a1d00cdee9fa939b3f.gif" style="Max-width:100%; Max-height:100%">]
+
+The final image of this route is the beautiful Victoria Harbor in Hong Kong. The attraction involving this image in this route is the Golden Bauhinia Square.
+
+Congratulations on your successful breakthrough! Feel free to recommend this game to more friends who are interested in Hong Kong culture!
+
+Interested in Route 1? You can:
+(button:) [[I wan to start the Urban explorer->Page 1]]
+
+
+:: flag {"position":"775,1600","size":"100,100"}
+(bg:(hsl:210,0.8039,0.5,0.4))[Neon: The regional flag of the Hong Kong Special Administrative Region is the regional flag of the Hong Kong Special Administrative Region of the People's Republic of China, a red flag with a five-starred stamen and a red bauhinia. The flag is rectangular, with a ratio of three to two in length and height, and depicts a white dynamic five-petaled Bauhinia flower with a red five-pointed star and a red stamen in each petal.
+
+<img src=https://i.pinimg.com/736x/df/b9/ad/dfb9ad3529cf734afe7b8e51d7267ca2.jpg>]
+
+[[I want to know more information.-> stop 6]]
+
+[[I'm ready to start the task!->Start task 6]]
+
+
+:: floor 2 [HKMOA2] {"position":"0,3175","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.5))[(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXX==")[“Painting on Movie” - Chow Chun Fai special artwork exhibition]
+]
+
+[Chow Chun Fai was born in 1980 and lives in Hong Kong. Fai graduated from the Chinese University of Hong Kong with a B.A. and M.A. degree, where he currently teaches painting.  In his latest series of "Movie Paintings", Fai depicts animated transitions and matching subtitles from classic Hong Kong films of the New Wave Cinema movement as well as more recent, internationally acclaimed films. ]
+
+[The artist captures the diversity of cinematic scenes and incorporates into his paintings the intricacies of Hong Kong's local culture, especially the social tensions that have arisen from the city's socio-political upheavals since 1997. Borrowing from a number of films that condense the collective memory of Hong Kong people, Fai reveals the struggles and anxieties that the city has experienced in response to the critical but unresolved issues of locality and identity that continue to redefine Hong Kong.
+]
+
+(bg:(hsl:0,0,1,0.4))[''* Leon the Professional: I want love or death, 2018"
+]
+(click: "Leon the Professional: I want love or death, 2018")[<img
+src="https://img.artlogic.net/w_2020,h_1160,c_limit/exhibit-e/559aad566aa72c9c3d07911a/60b8adc48a26cd2bda89bc0fb0e9a937.jpeg" style="Max-width:100%; Max-height:100%">
+Chow Chun Fai (1980-)
+Acrylic on canvas
+Code:CF20018]
+
+* The Grandmasters: Kungfu is about precision, 2018
+
+(click: "The Grandmasters: Kungfu is about precision, 2018")[<img
+src="https://img.artlogic.net/w_2020,h_1160,c_limit/exhibit-e/559aad566aa72c9c3d07911a/4288925cec9247eefd2ed96e375db1b1.jpeg" style="Max-width:100%; Max-height:100%">
+Chow Chun Fai (1980-)
+Acrylic on canvas
+Code:CF20398]
+
+* A Better Tomorrow: We were scolded when we were bad. When we turn to be good we are being tracked, 2013
+(click: "A Better Tomorrow: We were scolded when we were bad. When we turn to be good we are being tracked, 2013")[<img
+src="https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/559aad566aa72c9c3d07911a/7efbe3f69c2007634a34657b6c7e2e49.jpeg" style="Max-width:100%; Max-height:100%">
+Chow Chun Fai (1980-)
+Acrylic on canvas
+Code:CF20259]
+
+* City Hall, 2019
+(click: "City Hall, 2019")[<img
+src="https://img.artlogic.net/w_2020,h_1160,c_limit/exhibit-e/559aad566aa72c9c3d07911a/28abcdfbf1e55648e5a22638509ba300.jpeg" style="Max-width:100%; Max-height:100%">
+Chow Chun Fai (1980-)
+Acrylic on canvas
+Code:CF20840]
+
+* Chungking Express - Expiry date, 2016 
+(click: "Chungking Express - Expiry date, 2016 ")[<img
+src="https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/559aad566aa72c9c3d07911a/ffe0153c0f0cc49a64764deb313aa96a.jpeg" style="Max-width:100%; Max-height:100%">
+Chow Chun Fai (1980-)
+Acrylic on canvas
+Code:CF20815]
+
+(button:) [[Going back to the elevator->Start to explore]] 
+
+
+:: floor 3 [HKMOA2] {"position":"325,3150","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.5))[(align:"==><===")[Hong Kong in My Eyes - Kevin Cheng Special Photography Exhibition
+]]
+
+(link: "Cheng Kai Ma")[(goto-url: 'https://www.scmp.com/news/hong-kong/article/1207981/photographers-disability-doesnt-stop-him-daring-dream')] is a freelance photographer who loves photography and specializes in storytelling images. In recent years, he has been focusing on documentary photography, capturing social issues through his lens and using aerial photography technology to present a new perspective of Hong Kong.
+
+https://www.mplus.org.hk/api/images/3095/width-420%7Cformat-webp/
+
+His physical disability is the reason for his unique filming perspective. He suffers from a rare skeletal genetic disorder called SEMD, or supraspinal epiphyseal dysplasia. This congenital condition causes him to rely solely on a motorized wheelchair for mobility, which poses a certain degree of restriction on his outings to the set. But the power wheelchair allows him to find different views on the trail.
+
+* 1 2017
+(click: "1 2017")[<img
+src="https://www.mpweekly.com/culture/wp-content/uploads/2017/10/07-1.jpg" style="Max-width:100%; Max-height:100%">
+Kevin Cheng
+"In the eyes of the  public, Nam Sang Wai must take a boat. Although Kevin could not go there, he could see the place from a high angle."]
+
+* 2 2017
+(click: "2 2017")[<img
+src="https://www.mpweekly.com/culture/wp-content/uploads/2017/10/08-1.jpg" style="Max-width:100%; Max-height:100%">
+Kevin Cheng
+"The fields of Long Valley in Yuen Long are like plant cells under a microscope under his lens. It fills with active vitality."]
+
+* 4 2017
+(click: "4 2017")[<img
+src="https://www.mpweekly.com/culture/wp-content/uploads/2017/10/mk-1.jpg" style="Max-width:100%; Max-height:100%">
+Kevin Cheng
+"Mongkok is a mixture of old and new, with newly built commercial buildings sticking into the bustling city like a needle."]
+
+
+(button:) [[Going back to the elevator->Start to explore]] 
+
+
+:: floor 5 [HKMOA3] {"position":"125,3275","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.5))[Hikoko Ito Happy Birthday Likeboxes in Sunlight: A Site-specific Art Installation]
+
+When did you last receive a hand-drawn birthday card or make one for someone? Hikoko Ito has created an offline space for birthday wishes by creating 366 glowing mailboxes. Everyone can feel the birthday wishes of strangers.
+
+Feel free to write your birthday celebration for new strangers here!
+
+(input-box: bind $birthday)
+
+[[save your notes]]
+
+(button:) [[Going back to the elevator->Start to explore]] 
+
+
+:: floor4 [HKMOA2] {"position":"125,3150","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.5))(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXX==")[Wu Guanzhong Art Sponsorship Thematic Exhibition Series: 
+Wu Guanzhong: Between Black and White]
+
+Wu Guanzhong (1919-2010) spent his early years practising traditional Chinese ink painting before venturing into the colourful field of oil painting. After studying in France, he deliberately returned to China and devoted his life to exploring the fusion of Chinese and Western aesthetics. Wu Guanzhong lived and worked in Hong Kong. Hong Kong provided him with the cultural heritage of Western and Eastern aesthetics. This collection exhibits his work in three primary colours in Chinese ink: white, black and grey.
+
+* Waterway 1997
+(click: "Waterway 1997")[<img
+src="https://hk.art.museum/image/Exhibitions/2024/between-black-and-white/between_black_and_white_highlight_4.jpg" style="Max-width:100%; Max-height:100%">
+Wu Guanzhong (1919-2010)
+Oil on canvas
+Code:FA20012]
+
+* Bitter melon homestead 1998
+(click: "Bitter melon homestead 1998")[<img
+src="https://hk.art.museum/image/Exhibitions/2024/between-black-and-white/between_black_and_white_highlight_5.jpg" style="Max-width:100%; Max-height:100%">
+Wu Guanzhong (1919-2010)
+Oil on canvas
+Code:FA20013]
+
+* Steadying one's spirit in a see of ink 1995
+(click: "Steadying one's spirit in a see of ink 1995")[<img
+src="https://hk.art.museum/image/Exhibitions/2024/between-black-and-white/between_black_and_white_highlight_6.jpg" style="Max-width:100%; Max-height:100%">
+Wu Guanzhong (1919-2010)
+Oil on canvas
+Code:FA2018013]
+
+* Two swallows 1981
+(click: "Two swallows 1981") [<img
+src="https://hk.art.museum/image/Exhibitions/2024/between-black-and-white/between_black_and_white_highlight_2.jpg" style="Max-width:100%; Max-height:100%">
+Wu Guanzhong (1919-2010)
+ink and colour
+Code: FA200206]
+
+(button:) [[Going back to the elevator->Start to explore]] 
+
+
+:: forward [Opera1] {"position":"775,800","size":"100,100"}
+Li Kui Ming: Hello, $name. Welcome to The Sunbeam Theatre. It seems you're very interested in traditional theatre and the culture of Cantonese opera!
+<img src='https://i.pinimg.com/564x/31/dc/85/31dc8560248bada0b661ee2bc378cb33.jpg'>
+
+You: Hi! Li...
+
+(bg:(hsl:210,0.1579,0.9255,0.45))[[[I want to start the task quickly!->task 5]]
+
+[[What is Cantonese Opera? ->G]] 
+
+[[What are some types of performers in Cantonese Opera? ->H]] 
+
+[[What is the history of Shin Kong Theater? How has it developed recently? ->I]] ]
+
+
+:: ice cream [Ice] {"position":"1425,1675","size":"100,100"}
+Clerk: Congratulations, $name! you completed the task. Do you want to have an ice-cream?
+
+<img src=https://i.pinimg.com/564x/f5/62/89/f562894a93502562038330b8a27b7f9a.jpg>
+You: I'd like to have:
+
+(bg:white)[[SOFT ICE CREAM]]
+
+(bg:white)[[NUTTY DRUMSTICK]]
+
+(bg:white)[[ICE CREAM CUP]]
+
+(bg:white)[[JUMBLE ORANGE]]
+
+Or:
+
+(bg:white)[[I have more puzzles to collect, I need to go.->stop 7]]
+
+
+
+:: ins {"position":"475,1600","size":"100,100"}
+[(goto-url: 'https://www.instagram.com/explore/locations/413441903/biu-kee-mahjong/?hl=en')]
+
+
+:: lyrics [Opera2] {"position":"900,1050","size":"100,100"}
+(Rong/man = male character ; Lan/woman = female character)
+Rong: Miss, when praying to the gods, the more gods you worship, the more divine blessings you'll receive.
+
+(Song) Pray to God, pray to God, and sincerely pray to the spirits; I am fortunate to have met you, Miss, and to have become your lover. Your kind heart and beautiful appearance moved me.
+
+(Woman responds) I advise you to speak cautiously; a delicate flower like you should not meddle; hey, I advise you to uphold proper conduct, Quickly leave, and don't stick around.
+
+(Man responds) I am overly enthusiastic; I Fell in love with you at first sight, my jade-like lady; I am new to courting and seeking your favour; hey, spare me your scornful looks.
+
+(Woman, singing) Your words disgust me; Your actions are of low quality and seriousness.
+
+(Man responds) What's considered low quality? I sincerely seek your guidance, Guanyin; your compassionate heart should respond.
+
+(Woman responds) Guanyin wouldn't help bad people with wrong intentions.
+
+(Man responds) Guanyin also has a compassionate heart for relieving suffering and difficulties.
+(Woman responds) You beg me, your face covered in tooth marks.
+
+(Man responds) I'm a romantic; hey, I'm not even married yet.
+
+(Woman responds) Hey, take a good look at yourself; what kind of person are you? You look like a cat; who would marry you?
+
+(Man responds) My famous looks are perfect for matching with a girl.
+
+(Woman responds) Hmph, don't bother me; you're annoyingly persistent.
+
+(Man responds) I only wish to be your true lover.
+
+(Woman responds) You despicable person, who would want to be with you?
+
+(Man, addressing two bald characters) You, a tall cat like you, matched with this foolish person, is most suitable.
+
+(Woman, singing the prologue) You could be crazy, foolish, and brainless.
+
+(Man responds) You're called seductive and coy, And you act so naive. Please don't have a bad heart; I have my prayers; why deceive people?
+
+(Man continues) You must pray to the gods for marriage.
+
+(Woman responds) You're a despicable and base character, Truly a wretched person; even ghosts would prefer being that than being human.
+
+(Man responds) Even if I die and go to the underworld, My soul will follow you closely.
+
+(Woman responds) Even if the king of Hell refuses, I won't let you off easily; I'll make you a restless spirit in the 18 layers of Hell.
+
+(Man responds) Believe in Yama; He will have compassion for true lovers.
+
+(Woman responds) Then you have a destiny with ghosts. Hurry up and get married underground.
+
+(Man responds) Why are you so heartless? My intentions are sincere, True love, and making a tender commitment.
+
+(Woman responds) You're such a bad person; Your words make people angry.
+
+(Man responds) Heh, your anger is so beautiful; most wonderful is your coquettish charm; please have mercy on me.
+
+(Woman responds) Seeing your body filled with resentment makes people truly angry.
+
+Rong: I love your beauty and charm. Please forgive my hardship. Since I met you, my heart has been deeply impressed.
+
+Lan: You annoy me every day. I dislike you very much, and you truly make me hate you. I'm furious.
+
+Rong: You completely misunderstood. I am a scholar in this world. If you agree, marry me.
+
+Rong: Alright, Miss.
+
+Lan: Who will marry you? Get lost; don't think you can disrespectfully fool around. Your blabbering is chaotic. If you are smart enough, take back your heart and go to bed.
+
+Rong (sighs): Let's go.
+
+Rong: Let's see which lady is coming; I'll follow her to the end.
+
+ <img src='https://i.pinimg.com/474x/44/1c/95/441c95ed89bd238c9aa37782161596f1.jpg'>
+
+(bg:(hsl:0,0,1,0.25))[[[I'm ready to start the task.->task 5 game]] 
+]
+(bg:(hsl:0,0,1,0.25))[[[I want to see the video again.->task 5]]]
+
+
+:: ok! I can't wait! [Stop Opera] {"position":"775,675","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.5))[Spot 1: Sunbeam Theatre
+Adress: (link: "Kiu Fai Mansion, 413-423 King's Rd, North Point, Hong Kong, China")[(goto-url: 'https://www.sunbeamtheatre.com/hk/')]]
+
+(bg:(hsl:210,0.8039,0.5,0.5))[When you see the big red neon sign, you know the Sunbeam Theater is here. Sunbeam Theatre is located in King's Road, North Point, opened in 1972; so far, there are 50 years of history; this is one of the few existing large-scale Cantonese opera performance venues in Hong Kong, with the "Temple of Cantonese Opera" as the name. 
+
+It is the same theatre that appeared in film 'Farewell My Concubine'; it is written that Cheng Dieyi and Duan Xiaolou met in the Sunbeam Theatre at the end of the story in 2013. The Sunbeam Theatre also held the Farewell My Concubine Film Festival, which was held to reminisce about his older brother Leslie Cheung with his movie fans.]
+(align:"==><===")[<img
+src="https://i.pinimg.com/474x/8e/dd/85/8edd85761964afb0ab37862d3331d159.jpg" style="Max-width:100%; Max-height:100%">]
+
+You walk into the theatre and notice an uncle in costume not far away. You decide:
+
+(bg:(hsl:0,0,1,0.5))[[[I wish to talk with this uncle->forward]]
+
+[[I wish to start the task as soon as possible!I wish to sart the task as early as possible! ->task 5]]]
+
+
+:: ok! let's start [Stop Dim2] {"position":"400,700","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.7))[Spot 1：Kung Fu Deluxe Dim Sum
+Adress: (link: "Shop F5-F6 & R3, G/F, Marina Magic Shopping Mall, HK Gold Coast, Tuen Mun, Hong Kong China")[(goto-url: 'https://www.tripadvisor.co.uk/Restaurant_Review-g294217-d10256505-Reviews-Kung_Fu_Deluxe_Dim_Sum_Kitchen-Hong_Kong.html')]]
+
+(bg:(hsl:30,0.8039,0.5,0.65))[To have enough energy for the rest of the day, experience Hong Kong's morning tea culture first at 9 am!
+
+The Dim Sum restaurant is very crowded, but there's one empty seat near a granny slowly sipping tea.]
+
+(bg:white)[[Find a server to explain your visit and wait for the dim sum.->start the game]]
+
+(bg:white)[[Chat with the granny about Yum Cha culture.->chat]]]
+
+
+
+
+
+
+
+:: save your notes [HKMOA3] {"position":"125,3400","size":"100,100"}
+"$birthday" 
+
+Thanks for your note, $name! 
+
+The mailbox will keep this postcard well! Whoever receives this postcard will indeed have a happy day.
+
+(button:) [[Going back to the elevator->Start to explore]] 
+
+
+:: sculpture [Square] {"position":"900,1600","size":"100,100"}
+(bg:(hsl:210,0.8039,0.5,0.4))[Neon: [Bauhinia in Bloom" is a sculpture located at the Golden Bauhinia Square in front of the new wing of the Hong Kong Convention and Exhibition Center on the Wan Chai waterfront in Hong Kong. Sculpted according to the shape of a budding Bauhinia, it weighs 7 tons and measures 6 meters in length, width and height. It is cast in bronze with Italian gold leaf and supported by a Sichuan red granite plinth. The square base of the pedestal symbolizes the squareness of the nine states, and the Great Wall pattern in the ring symbolizes that the motherland will always embrace Hong Kong. The base is engraved with the words "Bauhinia in full bloom forever" in golden letters, symbolizing Hong Kong's eternal prosperity.]
+]
+
+<img src=https://www.chinadaily.com.cn/dfpd/lkqfwxg/attachement/jpg/site1/20110815/00221913c0920fb33a4a2e.jpg>
+
+(text-colour:black)+(bg:(hsl:0,0,1,0.4))[You: What is the meaning of Bauhinia?(click: "What is the meaning of Bauhinia?") [ 
+Neon: The Bauhinia was the city flower of Hong Kong since 1965. After the return of Hong Kong to China on July 1, 1997, the Bauhinia is the emblem of the Hong Kong Special Administrative Region (HKSAR). The symbol on the HKSAR flag is a combination of the five red stars on the Chinese national flag and the Bauhinia.] ]
+
+
+(text-colour:black)+(bg:(hsl:0,0,1,0.4))[You: When did the sculpture be transferred to here?(click: "When did the sculpture be transferred to here?") [ 
+Neon: On July 1, 1997, when the Hong Kong Special Administrative Region (HKSAR) was established, the Central Government presented a bronze statue of the Golden Bauhinia (GBS) - "Bauhinia in Full Bloom Forever" - to Hong Kong to celebrate the establishment of the HKSAR. The bronze statue of the Golden Bauhinia was placed in front of the new wing of the Hong Kong Convention and Exhibition Center, facing the sea, and this square was also named the Golden Bauhinia Square.] ]
+
+
+(bg:(hsl:0,0,1,0.4))[[[I want to see more places-> stop 6]]]
+
+(bg:(hsl:0,0,1,0.4))[[[I'm ready to start the task!->Start task 6]]
+]
+
+
+
+:: see the riddle {"position":"300,3025","size":"100,100"}
+(text-colour:white)+(bg:(hsl:210,0.8039,0.5,0.8)) [The riddle is: 
+
+(align:"==><===")[I'm an ancient martial art,
+Known for skill and power.
+With swift strikes and graceful moves,
+I defend and attack in every hour.
+
+What am I?]]
+
+
+(bg:(hsl:0,0,1,0.4))[[[I want to see the artwork now->Start to explore]]
+]
+(bg:(hsl:0,0,1,0.4))[[[ I am ready to fill the art code ->task 4 game]] ]
+
+
+:: start page {"position":"550,375","size":"100,100"}
+<script>
+    var audio = document.createElement('audio');
+    audio.src = 'https://freemusicarchive.org/music/kirk-osamayo/season-4-green/8-bit-adventure-1/';
+    audio.loop = true;
+    audio.volume = 0.5; // Set volume to 50% (you can adjust this value)
+    audio.play();
+</script>
+
+(set:$name to (prompt:"your name label for the adventure will be:", "Kim"))
+
+
+(set: $route to (random: 1, 2))
+
+Welcome, $name. 
+
+your route will be (Transition:"pulse")+ (transition-time: 5s) [ $route.]
+
+
+ (if: $route is 1)[
+  [[Go to route 1|Page 1]]
+] 
+(else:)[
+   [[Go to route 2|Page 2]]
+]
+
+
+
+
+
+:: start task 2 [Mahjong1] {"position":"475,1475","size":"100,100"}
+Task 2: Click three colours that Uncle Jing used in the colouring step (please choose three traditional  major colors): 
+
+(checkbox: bind _white, "white")
+(checkbox: bind _blue, "blue")
+(checkbox: bind _Purple, "purple")
+(checkbox: bind _red, "red")
+(checkbox: bind _green, "green")
+
+(link-rerun: "Did I choose the right answer?")[
+    (if: _blue and _red and _green)[
+        You have good observation skills! Welcome to the Mahjong Workshop in the future!
+        [[I will! I will firstly follow your ins! |ins]]
+        [[ Can't wait! I still have 2 more places to go. Thanks for your puzzle!  |stop_3]]
+    ]
+    (else:)[
+        Sorry! You chose the wrong three colors. Hope you can answer better next time!
+         (link: "start the game again.")(go-to: "Thank U page")]
+    ]
+
+(bg:white)[[[I want to talk with Uncle Jing more.->talk]]]
+
+
+:: start the game [Dim] {"position":"275,950","size":"100,100"}
+One Staff is pushing the Dim Sum cart to you, and place the dishes one by one:
+
+
+$name's 1st task: Please click one of the missing “Four Kings”  Dim Sum at your table:
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[Chat with granny for more information->chat]]
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[I'm ready to answer]]
+
+
+
+
+
+
+:: steamer basket [Central1] {"position":"1075,2800","size":"100,100"}
+"In Hong Kong, Yum Cha has become a unique culinary culture. Grannies or grandpas always push dessert trolleys along the corridors, delivering trays of dim sum! "
+
+"However, with the start of using dim sum paper to hold the dim sum in the teahouse, only a few restaurants have set up dim sum carts. Steamers have become an even rarer appliance. It gradually becomes a past cultural symbol."
+
+<img
+src="https://mmbiz.qpic.cn/sz_mmbiz_png/TYXhRibMtQR0yV2YWPrt0Eciag0BQlGhxFFtYvdgEwdeNTp0vCsDnEZ8FDBTs215qiaONPwafTgy7RWiazcty9gPRw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+" style="Max-width:100%; Max-height:100%">
+
+
+"To hold on to the collective memories for citizens, the pots of many plants in the interior were designed as stacked steamers. "
+
+
+<img
+src="https://i.pinimg.com/564x/44/e3/1b/44e31baad1ab2a6d8d9d90f72b03d111.jpg">
+
+[[I want to know more about these cultural symbols-> T7 tour]]
+
+[[I'm ready to start the task!->task 7]]
+
+
+
+
+:: stop 7 [Central1] {"position":"1000,2250","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.4))[Stop 3: Central Market
+Address: Central Market, 93 Queen's Road Central, Central, Hong Kong (click:"Central Market, 93 Queen's Road Central, Central, Hong Kong" )[(goto-url: 'https://www.centralmarket.hk/tc')]]
+
+(bg:(hsl:210,0.8039,0.5,0.4))[After the British occupied Hong Kong Island in 1841, there was a need to build various facilities in Hong Kong. A large number of Chinese artisans and food traders also came to Hong Kong. To meet the demand of the rapidly growing Chinese population on Hong Kong Island, it is recorded that Central Market was officially opened on June 10, 1842, on the south side of the present site.
+]<img
+src="https://www.centralmarket.hk/images-local/pic-history-1850-1.jpg" style="Max-width:100%; Max-height:100%">
+
+
+(bg:(hsl:210,0.8039,0.5,0.4))[After being left idle, the Urban Renewal Authority decided to conserve and revitalize the market in 2009.
+]<img
+src="https://today-obs.line-scdn.net/0hzVbzaoRhJXlfAzPs1utaLmdVKQhsZT9wfW1tFykHehx1LzEoZW12GnMEeVUhNmQnfzVuSy0AfEFzO2IpMA/w644" style="Max-width:100%; Max-height:100%">
+
+(bg:(hsl:0,0,1,0.4))[[[Start to explore.-> explore 7]]
+]
+(bg:(hsl:0,0,1,0.4))[[[I want to start the task. ->task 7]]]
+
+
+:: stop_3 [Stop Star] {"position":"275,2075","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.7))[Stop 3: Avenue of Stars
+Address: (link: "Ave of Stars, Tsim Sha Tsui, Hong Kong")[(goto-url: 'https://www.instagram.com/avenueofstarshk/')]]
+
+(bg:(hsl:210,0.8039,0.5,0.4))[Welcome to this Attraction 3: Avenue of Stars.
+]
+(bg:(hsl:210,0.8039,0.5,0.4))[Since April 27, 2004, the Avenue of Stars has been officially opened to visitors. Recognizing the outstanding people in Hong Kong's film industry is a unique attraction. Similar to the Hollywood Walk of Fame, which embedded outstanding filmmakers' names and palm prints in specially designed commemorative plaques.
+]
+(bg:(hsl:210,0.8039,0.5,0.4))[When you see the Hong Kong Academy Awards Goddess Statue, you have reached the beginning of the Avenue of Stars. This bronze statue is a starting point of the Avenue. More than 100 years of Hong Kong's film history are recorded on this 440-meter waterfront promenade.
+]
+
+(text-colour:white)+(bg:(hsl:0,0,1,0.5))[You: [[Start task 3 ->Stop 3 task 1]]
+]
+
+
+
+:: talk [Mahjong] {"position":"350,1475","size":"100,100"}
+(bg:(hsl:0,0,0.5333,0.5))[Uncle Jing: Welcome, $name! Is there anything you want to ask me?
+]
+<img src=https://i.pinimg.com/564x/31/2e/35/312e359c1018f64de2676cc87a09dd62.jpg>
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[[What is mahjong?->D]]]
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[What are the approximate steps involved in making traditional mahjong?->E]]
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.8))[[Any stories in this store?->F]]
+
+
+:: task 4 game [HKMOA] {"position":"425,3000","size":"100,100"}
+(bg:blue)[Task 4: please enter the Artwork Number: ]
+
+(input:  bind $artcode)
+
+(bg:white)[[Did I find the right art work?]]
+
+(bg:white)[[[I think I need more time to explore the museum->Start to explore]]]
+
+
+:: task 5 [Opera1] {"position":"900,800","size":"100,100"}
+(bg:(hsl:0,0,0,0.45))[Task 1: Please choose which character type does not appear in the video 'praying for god'?
+]
+<iframe width="800" height="600" src="https://www.bilibili.com/video/BV1GV4y1P7p4/?spm_id_from=333.337.search-card.all.click&vd_source=895cdba2911326bf28d046e6cd4b0bb3" frameborder="0" allowfullscreen></iframe>
+
+
+(bg:(hsl:0,0,0.5333,0.45))[(link: "I'm having trouble playing the video")[(goto-url: 'https://www.youtube.com/watch?v=sT8AC9GcQsg')] (please open the hyperlink in a new web).]
+
+(bg:(hsl:0,0,0.5333,0.45))[[[what's the meaning of the lyrics?->lyrics]]
+]
+(bg:(hsl:0,0,0.5333,0.45))[[[I have answer in mind!->task 5 game]]]
+
+(bg:(hsl:0,0,0.5333,0.45))[[[I wish to talk more with Li->forward]]]
+
+
+:: task 5 game [Opera2] {"position":"1075,1225","size":"100,100"}
+Of the following choices, which character type does not appear in the video?
+
+(dropdown: bind _character, "Sang/Sheng", "Dan/dan", "Cau/Chou")
+
+(bg:(hsl:0,0,1,0.25))[(link-rerun: "Is my answer right?")[
+  (if: _character is "Cau/Chou")[
+   (text-colour:orange)[ (print: "Your answer is correct! You got 1/4 puzzles!")]
+   [[ Go to Stop 2-> stop 6]]
+  ]
+  (else:)[
+    (print: "You chose the wrong character.")
+ (link: "start the game again.") (go-to: "Thank U page")]
+ ]]
+ 
+(bg:(hsl:0,0,1,0.25))[ [[I wish to talk more with Li->forward]]
+] 
+(bg:(hsl:0,0,1,0.25))[ [[I want to see the video again.->task 5]]
+] 
+ <img src='https://i.pinimg.com/474x/44/1c/95/441c95ed89bd238c9aa37782161596f1.jpg'>
+
+
+:: task 6 result [Square] {"position":"1075,2100","size":"100,100"}
+Your answer is $task6
+
+(if: $task6 is "01071997") [Wow! You write the correct date! You now have collected 2/4 puzzles!
+[[Go to the next stop. ->stop 7]]
+[[ I wish to have a free Mister Softee->ice cream]]]
+
+(if: $task6 is not "01071997") [Sorry, You write the wrong date:( [[
+I will try my best next time!->Thank U page]]]
+
+
+:: task 7 [Central1] {"position":"1075,2425","size":"100,100"}
+(text-colour:white)+(bg:(hsl:0,0,0,0.75))[Task 3: Please outline one historic/historically representative object that does not belong in the building:
+]
+
+(checkbox: bind _lamp, "egglamp")
+(checkbox: bind _steamer, "steamer")
+(checkbox: bind _terrazzo, "terrazzo")
+(checkbox: bind _standard, "standard weight ( on a balance scale)")
+
+
+(text-colour:orange)+(bg:(hsl:0,0,1,0.7))[(link-rerun: "Did I choose the right answer?")[
+    (if: _standard)[
+        You made the right choice! The weights are not the cultural objects highlighted in the market. You now have 3/4 puzzles, only 1 segment left!
+       
+        [[ collect your puzzle and go to next stop.  |Stop 8]]
+    ]
+    (else:)[
+        Sorry! You chose the wrong three colors. Hope you can answer better next time!
+         (link: "start the game again.")(go-to: "Thank U page")]
+    ]]
+
+
+
+:: terrazzo [Central2] {"position":"1200,2800","size":"100,100"}
+"Chemically washed stones were widely used as stock in the old Central Market, and over 15 types of Waterstones were utilised in the revitalized Central Market design."
+
+<img
+src="https://i.pinimg.com/564x/44/e3/1b/44e31baad1ab2a6d8d9d90f72b03d111.jpg">
+
+
+"From the traditional border crushed stone to the modern, colourful patchwork stone style improved by new technology, distributed in different locations, the most popular in the urban design of the whole block of Kas is the terrazzo steps; the nostalgic atmosphere pulls the full, out of the film rate is exceptionally high."
+
+<img
+src="https://i.pinimg.com/564x/44/e3/1b/44e31baad1ab2a6d8d9d90f72b03d111.jpg">
+
+
+[[I want to know more about these cultural symbols-> T7 tour]]
+
+[[I'm ready to start the task!->task 7]]
+
+
+:: StoryStylesheet [stylesheet]
+/*hide the sidebar completely*/
+tw-sidebar { visibility: hidden }
+Tw-passage [ tages~="Stop"] {text-align: center;}
+
+tw-passage { font-family: SILOM; }
+
+tw-link { color:Tomato; }
+
+.enchantment-link:hover, tw-link:hover { color: purple; }
+
+tw-story { background-image:url("https://i.pinimg.com/474x/cc/0b/ae/cc0baed3e816423aab1de4d9736556cc.jpg"); background-size:cover; }
+
+tw-story[tags~="HKMOA"] { background-image:url("https://i.pinimg.com/736x/82/b6/e7/82b6e7439e566798ed80c21f9d36d359.jpg"); background-size:cover; }
+
+tw-story[tags~="HKMOA1"] { background-image:url("https://i.pinimg.com/736x/e3/42/ac/e342ac71eeef5987bdbff76840680320.jpg"); background-size:cover; }
+
+tw-story[tags~="HKMOA2"] { background-image:url("https://i.pinimg.com/736x/73/dc/53/73dc53fb81cf2a5b1d6eb2a9336387e6.jpg"); background-size:cover; }
+
+tw-story[tags~="HKMOA3"] { background-image:url("https://i.pinimg.com/736x/ba/79/78/ba797862bc124d2d08253bb8d3aea212.jpg"); background-size:cover; }
+
+
+
+tw-story[tags~="Cover"] {
+ background-image:url("https://i.pinimg.com/originals/ce/ca/ba/cecabaac30736b17f7f278422ef861c0.gif");
+ background-size:cover;
+}
+
+
+tw-story[tags~="Dim"] {background-image:url("https://i.pinimg.com/736x/62/4c/4e/624c4e42f6951b909b3f78826189a0e1.jpg");
+ background-size:100%;
+}
+
+
+tw-story[tags~="Dim2"] {background-image:url("https://i.pinimg.com/736x/cf/79/90/cf79903dfbdf096d6e631b5b0e842a00.jpg");
+ background-size:100%;
+}
+tw-story[tags~="Mahjong"] {background-image:url("https://i.pinimg.com/736x/48/db/09/48db09fdc983ed3d715c6a7172f42c44.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="Mahjong1"] {background-image:url("https://i.pinimg.com/736x/5a/dd/44/5add44e1dd0044abb788c27eb146a6f6.jpg");
+ background-size:100%;
+}
+
+
+tw-story[tags~="ThankU"] {background-image:url("https://cdn.dribbble.com/users/1454037/screenshots/14061361/media/f64cd70f7ea04c5f60b8549a2542bdac.gif");
+ background-size:100%;
+}
+
+tw-story[tags~="Star"] {background-image:url("https://i.pinimg.com/736x/02/be/d1/02bed11e626cf7b48de66becc11069b6.jpg");
+ background-size:100%;
+}
+
+
+
+tw-story[tags~="Square"] {background-image:url("https://i.pinimg.com/736x/4b/86/56/4b86569a87c1c8d9226630edffb9c6a0.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="Opera"] {background-image:url("https://i.pinimg.com/736x/f7/26/14/f7261413bb86b9ea9904a574298bb7cf.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="Opera1"] {background-image:url("https://i.pinimg.com/736x/60/8c/cf/608ccfada57af7bc721d341c4aa337b9.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="Opera2"] {background-image:url("https://i.pinimg.com/736x/00/c6/d6/00c6d64fa6c36dfcb8f7fca5e49eaf8a.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="Central1"] {background-image:url("https://i.pinimg.com/736x/66/08/8a/66088a423d1cc1cf5c0a03e86cee91f4.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="Central2"] {background-image:url("https://i.pinimg.com/736x/53/d3/28/53d328c0262d1ca53cefeab690924f9e.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="HKU1"] {background-image:url("https://i.pinimg.com/736x/54/97/09/549709b18a417b642ca8f8c0fd78d408.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="HKUJ"] {background-image:url("https://i.pinimg.com/736x/b4/e7/09/b4e7096bf5f2b169e29cb0a6946aa10d.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="HKUZ"] {background-image:url("https://i.pinimg.com/736x/e8/81/c3/e881c3624fac72facd5ce3e0f4946ff7.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="HKUY"] {background-image:url("https://i.pinimg.com/736x/c6/b6/f3/c6b6f310456326293e78001b5a207032.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="HKUY"] {background-image:url("https://i.pinimg.com/736x/c6/b6/f3/c6b6f310456326293e78001b5a207032.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="Final"] {background-image:url("https://i.pinimg.com/564x/98/87/61/988761dc6d9874aecea49c8e502f4dce.jpg");
+ background-size:100%;
+}
+
+tw-story[tags~="Ice"] {background-image:url("https://i.pinimg.com/736x/65/0a/37/650a371497d6006acc2be61355eb76da.jpg");
+ background-size:100%;
+}
+
